@@ -10,6 +10,9 @@
 Agent Maverick is a Telegram bot created during LifeHack 2022 Hackathon. In 24 hours, our team built a bot that allowed users to encrypt text messages into images using steganography. We won Honorable Mention for our theme. 
 ___
 
+## To run the bot 
+Proceed to [this URL](https://t.me/stegEncryptBot) to run the bot on your telegram cilent. 
+
 ## User Experience
 
 A big part of building **Agent Maverick's** interface on Telegram was to make the process as easy and intuitive for the user as possible.
